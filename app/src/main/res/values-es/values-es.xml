@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="Name">Nombre</string>
+    <string name="Email">Correo electronico</string>
+    <string name="Password">Contraseña</string>
+    <string name="Repassword">Confirma contraseña</string>
+    <string name="Do_you_have">Tienes?</string>
+    <string name="Laptop">Ordenador</string>
+    <string name="Android_Phone">Móvil Android</string>
+    <string name="Age">Edad</string>
+    <string name="Menor_que">&lt;18</string>
+    <string name="Entre">18-65</string>
+    <string name="Mas_de">&gt;65</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Error_nombre" >Campo nombre vacío</string>
+    <string name="Error_correo" >Campo correo vacío</string>
+    <string name="Error_correo2" >Correo erroneo</string>
+    <string name="Error_password" >Campo contraseña vacío</string>
+    <string name="Error_password2" >Las contraseñas no coinciden</string>
+    <string name="Guardar" >Perfil guardado</string>
+
+
+</resources>

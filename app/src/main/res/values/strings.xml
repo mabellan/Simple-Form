@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AC1</string>
+
+    <string-array name="spinner_values">
+        <item>Marshmallow</item>
+        <item>KitKat</item>
+        <item>JellyBean</item>
+    </string-array>
+
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Repassword">Verify Password</string>
+    <string name="Do_you_have">Do you have?</string>
+    <string name="Laptop">Laptop</string>
+    <string name="Android_Phone">Android Phone</string>
+    <string name="Age">Age</string>
+    <string name="Menor_que">&lt;18</string>
+    <string name="Entre">18-65</string>
+    <string name="Mas_de">&gt;65</string>
+    <string name="Registrar">Register</string>
+    <string name="Error_nombre" >Field name cannot be blank</string>
+    <string name="Error_correo" >Field email cannot be blank</string>
+    <string name="Error_correo2" >Wrong email</string>
+    <string name="Error_password" >Field password cannot be blank</string>
+    <string name="Error_password2" >Verify your password</string>
+    <string name="Guardar" >Profile saved</string>
+
+</resources>
